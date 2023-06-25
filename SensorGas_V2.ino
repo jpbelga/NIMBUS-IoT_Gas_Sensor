@@ -1,8 +1,8 @@
 //Incude the macros
 //Internet config
-#define AUTH "a5GkT01ckud9SXvpAcehdZHH08URmuq9"
-#define SSID_ "0_xerife"
-#define PASS "a13b15c17"
+#define AUTH "***"
+#define SSID_ "***"
+#define PASS "***"
 
 //Pin numbers
 #define MQ2 32
